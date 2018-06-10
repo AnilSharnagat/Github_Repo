@@ -6,8 +6,11 @@ public class WelcomeToGithub {
 		System.out.println("WEL-COME");                   
 		System.out.println("-------------------------------------------");                   
 		System.out.println("Github   standAlon Project. ");    
+		System.out.println("------------------------------------------");              
 		System.out.println("-------------------------------------------");                   
-		System.out.println("Thank You... ");    
+		System.out.println("Thank to you. ");    
+		System.out.println("------------------------------------------");              
+		 
 	
 	}
 
