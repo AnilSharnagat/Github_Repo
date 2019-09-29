@@ -8,8 +8,7 @@ public class WelcomeToGithub {
 		System.out.println("Github   standAlon Project. ");    
 		System.out.println("------------------------------------------");              
 		System.out.println("-------------------------------------------");                   
-		System.out.println("Thank to you sir. ");    
-		//System.out.println("------------------------------------------");              
+		System.out.println("Thank to you sir.1234 ");    
 
 	
 	}
