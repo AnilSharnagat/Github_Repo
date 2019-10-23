@@ -9,7 +9,8 @@ public class WelcomeToGithub {
 		System.out.println("------------------------------------------");              
 		System.out.println("-------------------------------------------");                   
 		System.out.println("Thank to you sir.1234 ");    
-
+System.out.println("---------------%%%------------");                   
+		System.out.println("Thank to you sir.1234 ");  
 	
 	}
 
